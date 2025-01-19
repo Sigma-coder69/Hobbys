@@ -1,0 +1,96 @@
+body{
+  background-color: #B7E3CC;
+  color:black;
+  font-family: cursive;
+  font-size: 25px;
+}
+
+header {
+  background: #FFE066;
+ padding: 5px;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 10px;
+}
+
+nav ul li a {
+  color: black;
+}
+
+.Text{
+  text-align: center;
+}
+
+.face {
+  width: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Film{
+  height: auto;
+  width: 200px;
+}
+.Film2{
+    height: auto;
+    width: 200px;  
+}
+.Film3{
+  height: auto;
+  width: 200px;  
+}
+.Film4{
+  height: auto;
+  width: 200px;  
+}
+
+.VGame1{
+  height: auto;
+  width: 200px;
+}
+.VGame2{
+  height: auto;
+  width: 200px;
+}
+.VGame3{
+  height: auto;
+  width: 400px;
+}
+.VGame4{
+  height: auto;
+  width: 400px;
+}
+.Game1{
+  height: auto;
+  width: 200px;
+}
+.Game2{
+  height: auto;
+  width: 200px;
+}
+.Game3{
+  height: auto;
+  width: 200px;
+}
+.Game4{
+  height: auto;
+  width: 200px;
+}
+footer {
+  background: #FFE066 ;
+  text-align: center;
+  padding: 5px;
+}
+
+
+
+
+
+
+
